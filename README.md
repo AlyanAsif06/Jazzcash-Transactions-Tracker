@@ -1,6 +1,14 @@
 # JazzCash Expense Tracker 💰
 > Automate your JazzCash expenses. Zero apps, zero effort.
 
+## ⚙️ Setup
+
+ShortCut Link : https://www.icloud.com/shortcuts/88d290af91dc4c7abc2496ecdf049bc2
+
+Setup Video : https://github.com/user-attachments/assets/8097cd8d-5e49-4bf0-a5b0-582c7498eb73
+
+---
+
 A lightweight, fully native iOS Shortcut that automatically tracks your JazzCash transactions and logs them into Apple Notes — no third party apps, no subscriptions, no manual entry.
 
 ---
@@ -55,9 +63,9 @@ Every time you make a JazzCash payment, this shortcut automatically extracts the
 
 ---
 
-## ⚙️ Setup
+📄 License
+MIT License — free to use, modify and share.
 
-video
 
 ---
 
