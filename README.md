@@ -59,7 +59,7 @@ Every time you make a JazzCash payment, this shortcut automatically extracts the
 
 ---
 
-LinkedIn : https://www.linkedin.com/in/alyan-asif-1a0817280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+LinkedIn : https://www.linkedin.com/in/alyan-asif-1a0817280/
 
 ---
 
