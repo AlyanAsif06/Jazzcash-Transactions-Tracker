@@ -41,7 +41,7 @@ Every time you make a JazzCash payment, this shortcut automatically extracts the
 
 ## 🚀 How It Works
 <a href="https://github.com/user-attachments/assets/b8f1b07b-a9ed-4903-9858-12fdf671d67e" target="_blank">
-Watch demo on LinkedIn
+Watch demo
 </a>
 
 1. JazzCash payment is made
