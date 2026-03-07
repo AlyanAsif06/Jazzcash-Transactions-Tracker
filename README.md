@@ -3,9 +3,9 @@ A lightweight, fully native iOS Shortcut that automatically tracks your JazzCash
 
 ## ⚙️ Setup
 
-ShortCut Link : https://www.icloud.com/shortcuts/88d290af91dc4c7abc2496ecdf049bc2
+Use Tracker (ShortCut's Link) : https://www.icloud.com/shortcuts/88d290af91dc4c7abc2496ecdf049bc2
 
-Setup Video : https://github.com/user-attachments/assets/8097cd8d-5e49-4bf0-a5b0-582c7498eb73
+Setup Video : https://github.com/user-attachments/assets/ac72db73-17c6-4b93-95f5-2cee29daebfe
 
 ---
 
@@ -37,6 +37,7 @@ Every time you make a JazzCash payment, this shortcut automatically extracts the
 ---
 
 ## 🚀 How It Works
+https://github.com/user-attachments/assets/b8f1b07b-a9ed-4903-9858-12fdf671d67e
 
 1. JazzCash payment is made
 2. Shortcut is triggered
@@ -65,7 +66,6 @@ LinkedIn : https://www.linkedin.com/in/alyan-asif-1a0817280/
 
 📄 License
 MIT License — free to use, modify and share.
-
 
 ---
 
