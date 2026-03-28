@@ -35,7 +35,7 @@ Every time you make a JazzCash payment, this shortcut automatically extracts the
 - iPhone running iOS 16 or later
 - Apple Shortcuts app
 - Apple Notes app
-- JazzCash account
+- JazzCash or any Bank account app.
 
 ---
 
