@@ -1,6 +1,10 @@
 # iOS JazzCash Expense Tracker 💰
 A lightweight, fully native iOS Shortcut that automatically tracks your JazzCash transactions and logs them into Apple Notes 
 
+<a href="https://github.com/user-attachments/assets/b8f1b07b-a9ed-4903-9858-12fdf671d67e" target="_blank">
+Watch demo
+</a>
+
 ## ⚙️ Setup
 
 Use Tracker (ShortCut's Link) : https://www.icloud.com/shortcuts/88d290af91dc4c7abc2496ecdf049bc2
@@ -40,9 +44,6 @@ Every time you make a JazzCash payment, this shortcut automatically extracts the
 ---
 
 ## 🚀 How It Works
-<a href="https://github.com/user-attachments/assets/b8f1b07b-a9ed-4903-9858-12fdf671d67e" target="_blank">
-Watch demo
-</a>
 
 1. JazzCash payment is made
 2. Shortcut is triggered
